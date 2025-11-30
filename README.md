@@ -451,3 +451,11 @@ Utilities for calculation, time conversion, and network diagnostics.
 *   **Variants:**
     *   [Stopwatch](https://www.thefreewebtools.com/math-time/stopwatch/stopwatch)
     *   [Countdown Timer](https://www.thefreewebtools.com/math-time/stopwatch/timer)
+
+### Advanced Calculator
+*   **Description:** A powerful, web-based tool designed for students, professionals, and anyone needing more than just basic arithmetic. It combines the simplicity of a standard calculator with the functionality of a scientific one. Features include trigonometric functions (sin, cos, tan), logarithms, exponentiation, and a history log to track your calculations. Its responsive design ensures a seamless experience on both desktop and mobile devices.
+*   **Capabilities:**
+    *   Scientific functions (trig, log, exp) and basic arithmetic.
+    *   Calculation history and mobile-friendly interface.
+*   **Use Case:** Complex math problems, engineering calculations, and educational use.
+*   **URL:** [https://www.thefreewebtools.com/math-time-network/advanced-calculator](https://www.thefreewebtools.com/math-time-network/advanced-calculator)
